@@ -60,10 +60,6 @@ table {
     width: 100%;
 }
 
-table th {
-    align-items: center;
-}
-
 table th{
     border-bottom: 2px solid #000;
     padding: 16px;
